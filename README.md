@@ -4,12 +4,17 @@
 
 
 ## Fitur-Fitur
-· **Autentikasi Siswa**: Setiap siswa dapat login untuk melaporkan pengaduan secara aman.
-· **Formulir Pengaduan**: Fitur form untuk pengisian keluhan lengkap dengan kategori masalah dan deskripsi.
-· **Dashboard Pengaduan**: Tampilan daftar pengaduan siswa yang menampilkan status terbaru (diterima, diproses, atau selesai).
-· **Respon Pengaduan**: Admin sekolah dapat memberikan respons pada setiap pengaduan siswa.
-· **Notifikasi Status**: Siswa mendapatkan notifikasi ketika pengaduan mereka telah direspon atau diproses lebih lanjut.
-· **Pengaturan Profil**: Siswa dan admin dapat mengubah informasi profil masing-masing.
+• **Autentikasi Siswa**: Setiap siswa dapat login untuk melaporkan pengaduan secara aman.
+
+• **Formulir Pengaduan**: Fitur form untuk pengisian keluhan lengkap dengan kategori masalah dan deskripsi.
+
+• **Dashboard Pengaduan**: Tampilan daftar pengaduan siswa yang menampilkan status terbaru (diterima, diproses, atau selesai).
+
+• **Respon Pengaduan**: Admin sekolah dapat memberikan respons pada setiap pengaduan siswa.
+
+• **Notifikasi Status**: Siswa mendapatkan notifikasi ketika pengaduan mereka telah direspon atau diproses lebih lanjut.
+
+• **Pengaturan Profil**: Siswa dan admin dapat mengubah informasi profil masing-masing.
 
 Proses Cloning dan Instalasi
 Clone Repository
